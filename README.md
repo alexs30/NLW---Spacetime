@@ -11,7 +11,7 @@
   Desenvolvi esse projeto utilizando as seguintes tecnologias:
   -HTML
   -CSS
-  -Git e Giyhub
+  -Git e Github
 
   ## 🔗 Layout
 
