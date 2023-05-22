@@ -4,7 +4,7 @@
 
   #  💻 Projeto
 
-  Nesse projeto web, eu compartilho minha evolução e tambem minhas frustraçãoes com a cirugia bariátrica, que fiz no mes de Setembro de 2022.
+  Nesse projeto web, eu compartilho minha evolução e tambem minhas frustrações com a cirugia bariátrica, que fiz no mes de Setembro de 2022.
 
   ## 🚀 Tecnologias
 
